@@ -113,7 +113,7 @@ public class CashesListFragment extends ListFragment {
 
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
-        inflater.inflate(R.menu.global, menu);
+//        inflater.inflate(R.menu.global, menu);
         super.onCreateOptionsMenu(menu, inflater);
     }
 
