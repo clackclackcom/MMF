@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Мои денежные потоки</string>
+
+    <string name="title_section_wallets">Счета</string>
+    <string name="title_section_expenses">Расходы</string>
+    <string name="title_section_profits">Доходы</string>
+    <string name="title_section_categories">Категории</string>
+
+    <string name="action_new_cash">Создать счет</string>
+    <string name="action_new_operation">Создать операцию</string>
+    <string name="action_new_category">Создать категорию</string>
+    <string name="action_save">Сохранить</string>
+
+    <string name="title_activity_new_cash">Новый счет</string>
+    <string name="title_activity_new_category">Новая категория</string>
+    <string name="title_activity_new_operation">Новая операция</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="empty">Список пуст</string>
+
+</resources>
